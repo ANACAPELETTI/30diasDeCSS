@@ -12,12 +12,20 @@ Gostou da ideia?
 [Clique aqui](https://github.com/MilenaCarecho/30diasDeCSS/issues/1) para participar
 
 * [Dia 01 - Indicador de chat](#day01)
+* [Dia 02 - Ícone para menu hamburguer](#day02)
 
 ##  Desafio dia 01 - Indicador de chat (digitando...) <a name="day01"></a>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/75649546/169671663-ec54d809-9069-4925-9bda-3a63ce4440ee.gif">
-  
 </div>
 
 Para verificar o meu projeto [clique aqui](https://github.com/ANACAPELETTI/Indicador_Chat).
+
+##  Desafio dia 02 - Ícone para menu hamburguer <a name="day02"></a>
+
+<div align="center">
+  <img src="./projects/day_2/burger.gif">
+</div>
+
+Para verificar o meu projeto [clique aqui](https://github.com/ANACAPELETTI/30diasDeCSS/tree/main/projects/day_2).
