@@ -13,6 +13,7 @@ Gostou da ideia?
 
 * [Dia 01 - Indicador de chat](#day01)
 * [Dia 02 - Ícone para menu hamburguer](#day02)
+* [Dia 03 - Imagem com efeito hover](#day03)
 
 ##  Desafio dia 01 - Indicador de chat (digitando...) <a name="day01"></a>
 
@@ -29,3 +30,11 @@ Para verificar o meu projeto [clique aqui](https://github.com/ANACAPELETTI/Indic
 </div>
 
 Para verificar o meu projeto [clique aqui](https://github.com/ANACAPELETTI/30diasDeCSS/tree/main/projects/day_2).
+
+##  Desafio dia 03 - Imagem com efeito hover <a name="day03"></a>
+
+<div align="center">
+  <img src="./projects/day_3/github.gif">
+</div>
+
+Para verificar o meu projeto [clique aqui](https://github.com/ANACAPELETTI/30diasDeCSS/tree/main/projects/day_3).
