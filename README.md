@@ -11,9 +11,14 @@
 Gostou da ideia? 
 [Clique aqui](https://github.com/MilenaCarecho/30diasDeCSS/issues/1) para participar
 
+## Referêcias dos desafios
+[Online Tutorials](https://www.youtube.com/c/OnlineTutorials4Designers), [Milena Carecho](https://github.com/MilenaCarecho) e [Gabriela Pinheiro](https://github.com/SpruceGabriela).
+
+## Sumário
 * [Dia 01 - Indicador de chat](#day01)
 * [Dia 02 - Ícone para menu hamburguer](#day02)
 * [Dia 03 - Imagem com efeito hover](#day03)
+* [Dia 04 - Cartão transparente](#day04)
 
 ##  Desafio dia 01 - Indicador de chat (digitando...) <a name="day01"></a>
 
@@ -38,3 +43,11 @@ Para verificar o meu projeto [clique aqui](https://github.com/ANACAPELETTI/30dia
 </div>
 
 Para verificar o meu projeto [clique aqui](https://github.com/ANACAPELETTI/30diasDeCSS/tree/main/projects/day_3).
+
+##  Desafio dia 04 - Imagem com efeito hover <a name="day04"></a>
+
+<div align="center">
+  <img src="./projects/day_4/TransparentCard.gif">
+</div>
+
+Para verificar o meu projeto [clique aqui](https://github.com/ANACAPELETTI/30diasDeCSS/tree/main/projects/day_4).
