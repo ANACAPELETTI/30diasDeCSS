@@ -4,8 +4,8 @@
 
 # Regras gerais
 
-* Realizar 30 projetos, (para mim, por 30 dias seguidos);
-* Compartilhe seu progresso nas mídias sociais (Twitter, Facebook, Linkedin etc.) usando a hashtag #30diasDeCSS;
+* Realizar 30 mini projetos (para mim, por 30 dias seguidos);
+* Compartilhar o progresso nas mídias sociais (Twitter, Facebook, Linkedin etc.) usando a hashtag #30diasDeCSS;
 * O projeto deve ser concluído até 23:59.
 
 Gostou da ideia? 
@@ -19,6 +19,7 @@ Gostou da ideia?
 * [Dia 02 - Ícone para menu hamburguer](#day02)
 * [Dia 03 - Imagem com efeito hover](#day03)
 * [Dia 04 - Cartão transparente](#day04)
+* [Dia 05 - Lightning text](#day05)
 
 ##  Desafio dia 01 - Indicador de chat (digitando...) <a name="day01"></a>
 
@@ -51,3 +52,11 @@ Para verificar o meu projeto [clique aqui](https://github.com/ANACAPELETTI/30dia
 </div>
 
 Para verificar o meu projeto [clique aqui](https://github.com/ANACAPELETTI/30diasDeCSS/tree/main/projects/day_4).
+
+##  Desafio dia 05 - Lightning text <a name="day05"></a>
+
+<div align="center">
+  <img src="./projects/day_4/lightningText.gif">
+</div>
+
+Para verificar o meu projeto [clique aqui](https://github.com/ANACAPELETTI/30diasDeCSS/tree/main/projects/day_5).
