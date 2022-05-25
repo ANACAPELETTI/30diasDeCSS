@@ -56,7 +56,7 @@ Para verificar o meu projeto [clique aqui](https://github.com/ANACAPELETTI/30dia
 ##  Desafio dia 05 - Lightning text <a name="day05"></a>
 
 <div align="center">
-  <img src="./projects/day_4/lightningText.gif">
+  <img src="./projects/day_5/lightningText.gif">
 </div>
 
 Para verificar o meu projeto [clique aqui](https://github.com/ANACAPELETTI/30diasDeCSS/tree/main/projects/day_5).
