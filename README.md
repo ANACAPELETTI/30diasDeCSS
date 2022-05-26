@@ -20,6 +20,7 @@ Gostou da ideia?
 * [Dia 03 - Imagem com efeito hover](#day03)
 * [Dia 04 - Cartão transparente](#day04)
 * [Dia 05 - Lightning text](#day05)
+* [Dia 06 - Bubble Menu](#day06)
 
 ##  Desafio dia 01 - Indicador de chat (digitando...) <a name="day01"></a>
 
@@ -60,3 +61,11 @@ Para verificar o meu projeto [clique aqui](https://github.com/ANACAPELETTI/30dia
 </div>
 
 Para verificar o meu projeto [clique aqui](https://github.com/ANACAPELETTI/30diasDeCSS/tree/main/projects/day_5).
+
+##  Desafio dia 06 - Bubble menu <a name="day06"></a>
+
+<div align="center">
+  <img src="./projects/day_6/bubbleMenu.gif">
+</div>
+
+Para verificar o meu projeto [clique aqui](https://github.com/ANACAPELETTI/30diasDeCSS/tree/main/projects/day_6).
