@@ -21,6 +21,7 @@ Gostou da ideia?
 * [Dia 04 - Cartão transparente](#day04)
 * [Dia 05 - Lightning text](#day05)
 * [Dia 06 - Bubble Menu](#day06)
+* [Dia 07 - Rainy Cloud](#day07)
 
 ##  Desafio dia 01 - Indicador de chat (digitando...) <a name="day01"></a>
 
@@ -69,3 +70,11 @@ Para verificar o meu projeto [clique aqui](https://github.com/ANACAPELETTI/30dia
 </div>
 
 Para verificar o meu projeto [clique aqui](https://github.com/ANACAPELETTI/30diasDeCSS/tree/main/projects/day_6).
+
+##  Desafio dia 07 - Rainy cloud <a name="day07"></a>
+
+<div align="center">
+  <img src="./projects/day_7/rainyCloud.gif">
+</div>
+
+Para verificar o meu projeto [clique aqui](https://github.com/ANACAPELETTI/30diasDeCSS/tree/main/projects/day_7).
