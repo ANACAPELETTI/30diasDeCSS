@@ -22,6 +22,7 @@ Gostou da ideia?
 * [Dia 05 - Lightning text](#day05)
 * [Dia 06 - Bubble Menu](#day06)
 * [Dia 07 - Rainy Cloud](#day07)
+* [Dia 08 - Scanning Finger Print](#day08)
 
 ##  Desafio dia 01 - Indicador de chat (digitando...) <a name="day01"></a>
 
@@ -78,3 +79,11 @@ Para verificar o meu projeto [clique aqui](https://github.com/ANACAPELETTI/30dia
 </div>
 
 Para verificar o meu projeto [clique aqui](https://github.com/ANACAPELETTI/30diasDeCSS/tree/main/projects/day_7).
+
+##  Desafio dia 08 - Scanning Finger Print <a name="day08"></a>
+
+<div align="center">
+  <img src="./projects/day_8/scanningFingerPrint.gif">
+</div>
+
+Para verificar o meu projeto [clique aqui](https://github.com/ANACAPELETTI/30diasDeCSS/tree/main/projects/day_8).
