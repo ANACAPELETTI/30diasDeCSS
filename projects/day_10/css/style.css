@@ -1,0 +1,159 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: linear-gradient(#ffe2ef 50%, #ffffff 50%);
+}
+
+.card {
+    position: relative;
+    width: 300px;
+    height: 380px;
+    background: #000000;
+    box-shadow: 0 15px 45px rgba(0, 0, 0, 0.2);
+    display: flex;
+    overflow: hidden;
+    transition: 0.5s ease-in-out;
+}
+
+.card:hover {
+    width: 600px;
+}
+
+.card .img {
+    position: relative;
+    min-width: 300px;
+    height: 100%;
+    background: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+
+.card .img img {
+    max-width: 250px;
+    transition: 0.5s ease-in-out;
+}
+
+.card:hover .img img {
+    transform: rotate(-35deg) translateX(-20px);
+}
+
+.card .details {
+    position: relative;
+    min-width: 300px;
+    height: 100%;
+    background: #ffe2ef;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    flex-direction: column;
+}
+
+.card .details::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    width: 0;
+    height: 0;
+    border-top: 10px solid transparent;
+    border-bottom: 10px solid transparent;
+    border-left: 10px solid #ffffff;
+}
+
+.card .details h3 {
+    color: #303031;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 1.5em;
+    line-height: 1em;
+}
+
+.card .details h3 span {
+    font-size: 0.65em;
+    font-weight: 300;
+    text-transform: none;
+    opacity: 0.85;
+}
+
+.card .details h4 {
+    color: #303031;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 0.9em;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    line-height: 1em;
+}
+
+.card .details p {
+    color: #303031;
+    opacity: 0.85;
+    font-size: 0.8em;
+    text-align: justify;
+}
+
+.card .details .size {
+    display: flex;
+    gap: 10px;
+}
+
+.card .details .size li {
+    list-style: none;
+    font-size: 0.9em;
+    width: 40px;
+    height: 40px;
+    border: 2px solid #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 500;
+    opacity: 0.5;
+    cursor: pointer;
+}
+
+.card .details .size li:hover {
+    color: #303031;
+    background: #ffffff;
+    opacity: 1;
+}
+
+.group {
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.card .details .group h2 {
+    color: #303031;
+    font-weight: 600;
+    font-size: 2em;
+}
+
+.card .details .group h2 sup {
+    font-weight: 300;
+}
+
+.card .details .group h2 sup small {
+    font-size: 0.65em;
+}
+
+.card .details .group a {
+    display: inline-flex;
+    padding: 10px 25px;
+    background-color: #ffffff;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: 500;
+    color: #303031;
+}
