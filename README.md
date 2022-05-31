@@ -23,6 +23,8 @@ Gostou da ideia?
 * [Dia 06 - Bubble Menu](#day06)
 * [Dia 07 - Rainy Cloud](#day07)
 * [Dia 08 - Scanning Finger Print](#day08)
+* [Dia 09 - Jumping Text](#day09)
+* [Dia 10 - Shoe](#day10)
 
 ##  Desafio dia 01 - Indicador de chat (digitando...) <a name="day01"></a>
 
@@ -87,3 +89,19 @@ Para verificar o meu projeto [clique aqui](https://github.com/ANACAPELETTI/30dia
 </div>
 
 Para verificar o meu projeto [clique aqui](https://github.com/ANACAPELETTI/30diasDeCSS/tree/main/projects/day_8).
+
+##  Desafio dia 09 - Jumping Text <a name="day09"></a>
+
+<div align="center">
+  <img src="./projects/day_9/jumpingText.gif">
+</div>
+
+Para verificar o meu projeto [clique aqui](https://github.com/ANACAPELETTI/30diasDeCSS/tree/main/projects/day_9).
+
+##  Desafio dia 10 - Shoe <a name="day10"></a>
+
+<div align="center">
+  <img src="./projects/day_10/U27RWI.gif">
+</div>
+
+Para verificar o meu projeto [clique aqui](https://github.com/ANACAPELETTI/30diasDeCSS/tree/main/projects/day_10).
