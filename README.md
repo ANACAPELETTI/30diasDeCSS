@@ -25,6 +25,8 @@ Gostou da ideia?
 * [Dia 08 - Scanning Finger Print](#day08)
 * [Dia 09 - Jumping Text](#day09)
 * [Dia 10 - Shoe](#day10)
+* [Dia 11 - Mouse move Effects](#day11)
+* [Dia 12 - Animated Background](#day12)
 
 ##  Desafio dia 01 - Indicador de chat (digitando...) <a name="day01"></a>
 
@@ -105,3 +107,19 @@ Para verificar o meu projeto [clique aqui](https://github.com/ANACAPELETTI/30dia
 </div>
 
 Para verificar o meu projeto [clique aqui](https://github.com/ANACAPELETTI/30diasDeCSS/tree/main/projects/day_10).
+
+##  Desafio dia 11 - Mouse move Effects <a name="day11"></a>
+
+<div align="center">
+  <img src="./projects/day_11/G9_uVd.gif">
+</div>
+
+Para verificar o meu projeto [clique aqui](https://github.com/ANACAPELETTI/30diasDeCSS/tree/main/projects/day_11). 
+
+##  Desafio dia 12 - Animated Background <a name="day12"></a>
+
+<div align="center">
+  <img src="./projects/day_12/Fgo-wL.gif">
+</div>
+
+Para verificar o meu projeto [clique aqui](https://github.com/ANACAPELETTI/30diasDeCSS/tree/main/projects/day_12). 
