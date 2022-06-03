@@ -27,6 +27,7 @@ Gostou da ideia?
 * [Dia 10 - Shoe](#day10)
 * [Dia 11 - Mouse move Effects](#day11)
 * [Dia 12 - Animated Background](#day12)
+* [Dia 13 - Text Portrait Effects](#day13)
 
 ##  Desafio dia 01 - Indicador de chat (digitando...) <a name="day01"></a>
 
@@ -123,3 +124,12 @@ Para verificar o meu projeto [clique aqui](https://github.com/ANACAPELETTI/30dia
 </div>
 
 Para verificar o meu projeto [clique aqui](https://github.com/ANACAPELETTI/30diasDeCSS/tree/main/projects/day_12). 
+
+##  Desafio dia 13 - Text Portrait Effects <a name="day13"></a>
+
+<div align="center">
+  <img src="./projects/day_13/finished_1.png">
+</div>
+
+Para verificar o meu projeto [clique aqui](https://github.com/ANACAPELETTI/30diasDeCSS/tree/main/projects/day_13). 
+
