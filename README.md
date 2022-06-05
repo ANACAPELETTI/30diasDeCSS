@@ -29,6 +29,7 @@ Gostou da ideia?
 * [Dia 12 - Animated Background](#day12)
 * [Dia 13 - Text Portrait Effects](#day13)
 * [Dia 14 - Water Wave Text Animation](#day14)
+* [Dia 14 - Hexagonal Icon Hover](#day15)
 
 ##  Desafio dia 01 - Indicador de chat (digitando...) <a name="day01"></a>
 
@@ -141,4 +142,12 @@ Para verificar o meu projeto [clique aqui](https://github.com/ANACAPELETTI/30dia
 </div>
 
 Para verificar o meu projeto [clique aqui](https://github.com/ANACAPELETTI/30diasDeCSS/tree/main/projects/day_14). 
+
+##  Desafio dia 15 - Hexagonal Icon Hover <a name="day15"></a>
+
+<div align="center">
+  <img src="./projects/day_15/INxRSX.gif">
+</div>
+
+Para verificar o meu projeto [clique aqui](https://github.com/ANACAPELETTI/30diasDeCSS/tree/main/projects/day_15). 
 
