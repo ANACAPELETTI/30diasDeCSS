@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: #262626;
+}
+
+.container {
+    position: relative;
+}
+
+.container h2 {
+    position: absolute;
+    transform: translate(-50%,-50%);
+    font-size: 8em;
+}
+
+.container h2:nth-child(1) {
+    color: transparent;
+    -webkit-text-stroke: 2px #f361bb;
+}
+
+.container h2:nth-child(2) {
+    color: #f361bb;
+    animation: WaterEffect 4s ease-in-out infinite;
+}
+
+@keyframes WaterEffect {
+    0%,100% {
+        clip-path: polygon(0 25%, 17% 33%, 30% 44%, 40% 56%, 56% 63%, 77% 63%, 100% 66%, 100% 100%, 0 100%);
+    }
+    50%{
+        clip-path: polygon(0 60%, 16% 65%, 36% 70%, 53% 66%, 66% 51%, 80% 40%, 100% 33%, 100% 100%, 0 100%);
+    }
+}
