@@ -28,6 +28,7 @@ Gostou da ideia?
 * [Dia 11 - Mouse move Effects](#day11)
 * [Dia 12 - Animated Background](#day12)
 * [Dia 13 - Text Portrait Effects](#day13)
+* [Dia 14 - Water Wave Text Animation](#day14)
 
 ##  Desafio dia 01 - Indicador de chat (digitando...) <a name="day01"></a>
 
@@ -132,4 +133,12 @@ Para verificar o meu projeto [clique aqui](https://github.com/ANACAPELETTI/30dia
 </div>
 
 Para verificar o meu projeto [clique aqui](https://github.com/ANACAPELETTI/30diasDeCSS/tree/main/projects/day_13). 
+
+##  Desafio dia 14 - Water Wave Text Animation <a name="day14"></a>
+
+<div align="center">
+  <img src="./projects/day_14/hfikXw.gif">
+</div>
+
+Para verificar o meu projeto [clique aqui](https://github.com/ANACAPELETTI/30diasDeCSS/tree/main/projects/day_14). 
 
