@@ -4,7 +4,7 @@
 
 # Regras gerais
 
-* Realizar 30 mini projetos (para mim, por 30 dias seguidos);
+* Realizar 30 mini projetos (para mim, não necessariamente 30 dias seguidos);
 * Compartilhar o progresso nas mídias sociais (Twitter, Facebook, Linkedin etc.) usando a hashtag #30diasDeCSS;
 * O projeto deve ser concluído até 23:59.
 
@@ -29,7 +29,10 @@ Gostou da ideia?
 * [Dia 12 - Animated Background](#day12)
 * [Dia 13 - Text Portrait Effects](#day13)
 * [Dia 14 - Water Wave Text Animation](#day14)
-* [Dia 14 - Hexagonal Icon Hover](#day15)
+* [Dia 15 - Hexagonal Icon Hover](#day15)
+* [Dia 16 - Smooth Scrolling To A DIV](#day16)
+* [Dia 17 - Break](#day17)
+* [Dia 18 - Icon Background Animation](#day18)
 
 ##  Desafio dia 01 - Indicador de chat (digitando...) <a name="day01"></a>
 
@@ -150,4 +153,28 @@ Para verificar o meu projeto [clique aqui](https://github.com/ANACAPELETTI/30dia
 </div>
 
 Para verificar o meu projeto [clique aqui](https://github.com/ANACAPELETTI/30diasDeCSS/tree/main/projects/day_15). 
+
+##  Desafio dia 16 - Smooth Scrolling To A DIV <a name="day16"></a>
+
+<div align="center">
+  <img src="./projects/day_16/xsMjwY.gif">
+</div>
+
+Para verificar o meu projeto [clique aqui](https://github.com/ANACAPELETTI/30diasDeCSS/tree/main/projects/day_16). 
+
+##  Desafio dia 17 - Break <a name="day17"></a>
+
+<div align="center">
+  <img src="./projects/day_17/QiolhR.gif">
+</div>
+
+Para verificar o meu projeto [clique aqui](https://github.com/ANACAPELETTI/30diasDeCSS/tree/main/projects/day_17). 
+
+##  Desafio dia 18 - Icon Background Animation <a name="day18"></a>
+
+<div align="center">
+  <img src="./projects/day_18/mKUtuD.gif">
+</div>
+
+Para verificar o meu projeto [clique aqui](https://github.com/ANACAPELETTI/30diasDeCSS/tree/main/projects/day_18). 
 
