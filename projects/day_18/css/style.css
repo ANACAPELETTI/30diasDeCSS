@@ -1,0 +1,95 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+section {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    background: #262626;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+}
+
+section .row {
+    position: relative;
+    top: -75%;
+    width: 100%;
+    display: flex;
+    padding: 10px 0;
+    white-space: nowrap;
+    font-size: 64px;
+    transform: rotate(-30deg);
+}
+
+i {
+    color: rgba(0, 0, 0, 0.5);
+    transition: 1s;
+    padding: 0 5px;
+    user-select: none;
+    cursor: default;
+}
+
+i:hover {
+    transition: 0s;
+    color: #00FF00;
+    text-shadow: 0 0 120px #00FF00;
+}
+
+section .row div {
+    animation: rowAnimation1 80s linear infinite;
+    animation-delay: -80s;
+}
+
+@keyframes rowAnimation1 {
+    0%{
+        transform: translateX(100%);
+    }
+    100%{
+        transform: translateX(-100%);
+    }
+}
+
+section .row div:nth-child(2) {
+    animation: rowAnimation2 80s linear infinite;
+    animation-delay: -40s;
+}
+
+@keyframes rowAnimation2 {
+    0%{
+        transform: translateX(0%);
+    }
+    100%{
+        transform: translateX(-200%);
+    }
+}
+
+section .row:nth-child(even) div {
+    animation: rowAnimation3 80s linear infinite;
+    animation-delay: -80s;
+}
+
+@keyframes rowAnimation3 {
+    0%{
+        transform: translateX(-100%);
+    }
+    100%{
+        transform: translateX(100%);
+    }
+}
+
+section .row:nth-child(even) div:nth-child(2) {
+    animation: rowAnimation4 80s linear infinite;
+    animation-delay: -40s;
+}
+
+@keyframes rowAnimation4 {
+    0%{
+        transform: translateX(-200%);
+    }
+    100%{
+        transform: translateX(0%);
+    }
+}
