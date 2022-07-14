@@ -34,7 +34,9 @@ Gostou da ideia?
 * [Dia 17 - Break](#day17)
 * [Dia 18 - Icon Background Animation](#day18)
 * [Dia 19 - Button Hover Effects](#day19)
-* [Dia 20 - ](#day20)
+* [Dia 20 - Box Shadow Loading Animation](#day20)
+* [Dia 21 - 2023 | Happy new year](#day21)
+* [Dia 22 - Wave Background](#day22)
 
 ##  Desafio dia 01 - Indicador de chat (digitando...) <a name="day01"></a>
 
@@ -188,10 +190,26 @@ Para verificar o meu projeto [clique aqui](https://github.com/ANACAPELETTI/30dia
 
 Para verificar o meu projeto [clique aqui](https://github.com/ANACAPELETTI/30diasDeCSS/tree/main/projects/day_19). 
 
-##  Desafio dia 20 -  <a name="day20"></a>
+##  Desafio dia 20 - Box Shadow Loading Animation <a name="day20"></a>
 
 <div align="center">
   <img src="./projects/day_20/gif.gif">
 </div>
 
 Para verificar o meu projeto [clique aqui](https://github.com/ANACAPELETTI/30diasDeCSS/tree/main/projects/day_20). 
+
+##  Desafio dia 21 - 2023 | Happy new year <a name="day210"></a>
+
+<div align="center">
+  <img src="./projects/day_21/gif.gif">
+</div>
+
+Para verificar o meu projeto [clique aqui](https://github.com/ANACAPELETTI/30diasDeCSS/tree/main/projects/day_21). 
+
+##  Desafio dia 22 - Wave Background <a name="day22"></a>
+
+<div align="center">
+  <img src="./projects/day_22/gif.gif">
+</div>
+
+Para verificar o meu projeto [clique aqui](https://github.com/ANACAPELETTI/30diasDeCSS/tree/main/projects/day_22). 
