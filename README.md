@@ -33,6 +33,8 @@ Gostou da ideia?
 * [Dia 16 - Smooth Scrolling To A DIV](#day16)
 * [Dia 17 - Break](#day17)
 * [Dia 18 - Icon Background Animation](#day18)
+* [Dia 19 - Button Hover Effects](#day19)
+* [Dia 20 - ](#day20)
 
 ##  Desafio dia 01 - Indicador de chat (digitando...) <a name="day01"></a>
 
@@ -178,3 +180,18 @@ Para verificar o meu projeto [clique aqui](https://github.com/ANACAPELETTI/30dia
 
 Para verificar o meu projeto [clique aqui](https://github.com/ANACAPELETTI/30diasDeCSS/tree/main/projects/day_18). 
 
+##  Desafio dia 19 - Button Hover Effects <a name="day19"></a>
+
+<div align="center">
+  <img src="./projects/day_19/gif.gif">
+</div>
+
+Para verificar o meu projeto [clique aqui](https://github.com/ANACAPELETTI/30diasDeCSS/tree/main/projects/day_19). 
+
+##  Desafio dia 20 -  <a name="day20"></a>
+
+<div align="center">
+  <img src="./projects/day_20/gif.gif">
+</div>
+
+Para verificar o meu projeto [clique aqui](https://github.com/ANACAPELETTI/30diasDeCSS/tree/main/projects/day_20). 
