@@ -37,6 +37,8 @@ Gostou da ideia?
 * [Dia 20 - Box Shadow Loading Animation](#day20)
 * [Dia 21 - 2023 | Happy new year](#day21)
 * [Dia 22 - Wave Background](#day22)
+* [Dia 23 - Keyboard Keys](#day23)
+* [Dia 24 - Focus | CSS Text Hover Effects](#day24)
 
 ##  Desafio dia 01 - Indicador de chat (digitando...) <a name="day01"></a>
 
@@ -213,3 +215,19 @@ Para verificar o meu projeto [clique aqui](https://github.com/ANACAPELETTI/30dia
 </div>
 
 Para verificar o meu projeto [clique aqui](https://github.com/ANACAPELETTI/30diasDeCSS/tree/main/projects/day_22). 
+
+##  Desafio dia 23 - keyboard keys <a name="day23"></a>
+
+<div align="center">
+  <img src="./projects/day_23/print.png">
+</div>
+
+Para verificar o meu projeto [clique aqui](https://github.com/ANACAPELETTI/30diasDeCSS/tree/main/projects/day_23). 
+
+##  Desafio dia 24 - Focus | CSS Text Hover Effects <a name="day24"></a>
+
+<div align="center">
+  <img src="./projects/day_24/gif.gif">
+</div>
+
+Para verificar o meu projeto [clique aqui](https://github.com/ANACAPELETTI/30diasDeCSS/tree/main/projects/day_24). 
