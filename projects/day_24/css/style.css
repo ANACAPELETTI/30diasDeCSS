@@ -1,0 +1,67 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: monospace;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: linear-gradient(45deg, #4e0820, #ff0055);
+}
+
+h2{
+    position: relative;
+    display: flex;
+    gap: 5px;
+    color: #ffffff;
+    font-size: 8em;
+    cursor: pointer;
+}
+
+h2 span {
+    position: relative;
+    filter: blur(10px);
+    padding: 0 5px;
+    transition: 0.5s;
+}
+
+h2 span:hover{
+    filter: blur(0px);
+    transition: 0s;
+}
+
+h2 span i {
+    position: absolute;
+    inset: 0;
+    background: transparent;
+}
+
+h2 span:hover i::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 2px;
+    height: 8px;
+    background: #ffffff; /*line up left*/
+    box-shadow: 0 114px #ffffff, /*line down left*/
+    65px 114px #ffffff, /*line down right*/
+    65px 0 #ffffff; /*line up right*/
+}
+
+h2 span:hover i::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 8px;
+    height: 2px;
+    background: #ffffff; /*line up left*/
+    box-shadow: 0 120px #ffffff, /*line down left*/
+    59px 120px #ffffff, /*line down right*/
+    59px 0 #ffffff; /*line up right*/
+}
