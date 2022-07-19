@@ -1,0 +1,73 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: url(../image/cena_crime.jpg);
+    background-size: cover;
+    font-family: 'Helvetica', sans-serif;
+}
+
+section {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+}
+
+section .scroll {
+    width: 100%;
+    display: flex;
+}
+
+section .scroll div {
+    color: yellow;
+    font-size: 4em;
+    background-color: black;
+    white-space: nowrap;
+    font-weight: 900;
+    text-transform: uppercase;
+    animation: animate 40s linear infinite;
+    animation-delay: -40s;
+}
+
+section .scroll div:nth-child(2){
+    animation: animate2 40s linear infinite;
+    animation-delay: -20s;
+}
+
+@keyframes animate {
+    0% {
+        transform: translateX(100%);
+    }
+    100%{
+        transform: translateX(-100%);
+    }
+}
+
+@keyframes animate2 {
+    0% {
+        transform: translateX(0);
+    }
+    100%{
+        transform: translateX(-200%);
+    }
+}
+
+section .scroll.text1 {
+    transform: rotate(30deg) translateY(200px) translateX(-200px);
+    box-shadow: 0 5px 15px rgba(0,0,0,.5);
+}
+
+section .scroll.text2 {
+    transform: rotate(-25deg) translateY(120px) translateX(-200px);
+    box-shadow: 0 5px 15px rgba(0,0,0,.5);
+}
+
+section .scroll.text3 {
+    transform: rotate(20deg) translateY(300px) translateX(-200px);
+    box-shadow: 0 5px 15px rgba(0,0,0,.5);
+}
+
+section .scroll.text5 {
+    transform: rotate(5deg) translateY(250px) translateX(-200px);
+    box-shadow: 0 5px 15px rgba(0,0,0,.5);
+}
